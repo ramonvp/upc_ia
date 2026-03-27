@@ -1,0 +1,5 @@
+torch
+Flask
+Werkzeug
+scikit-learn
+pandas
